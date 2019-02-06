@@ -4,3 +4,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/LuisSumpango/Java.git
 git push -u origin master
+
+................
+
+git add .
+
+git commit -m 'ldfmkmflkasfmklas'
+		'Actividad 1'
+
+git push -u origin master
